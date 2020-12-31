@@ -128,19 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project-specific ignores
-release/
-work/
-bin/MacOSX/
-bin/Win64/
-build/spec/
-build/MacOSX/
-build/Win64/
-gitRelease/
 .DS_Store
 ~*
-#
-# These files should NOT be checked in--they contain member data that does not belong on GitHub
-config/NMRA_Division_Reassignments.xlsx
-config/NMRA_Email_Distribution_List.xlsx
+# SlickEdit Files
+*.vpj
+*.vpw
+*.vtg
+*.vpwhistu
 
